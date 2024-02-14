@@ -31,4 +31,4 @@
 <img width="595" alt="スクリーンショット 2024-02-14 16 02 41" src="https://github.com/tsuka1211/rungame/assets/81535575/7fc00cea-8b44-4206-b17b-68befc298fb0">
 
 ## 使用技術
-Java/processing
+### Java/processing
